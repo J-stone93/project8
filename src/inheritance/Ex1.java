@@ -10,7 +10,7 @@ public class Ex1 {
 		
 		child.lastName = "고"; //부모 클래스에서 물려 받음
 		
-		child.firstName = "길동";
+		child.firstName = "길동"; //자식 클래스 자체 속성
 
 	}
 
